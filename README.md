@@ -7,6 +7,6 @@
 npm run dev
 
 
-#preview
-![img1](../image_enhancer/assets/img1.png)
-![img2](../image_enhancer/assets/img2.png)
+# screenshot
+![img1](assets/img1.png)
+![img2](assets/img2.png)
