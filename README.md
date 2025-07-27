@@ -8,5 +8,5 @@ npm run dev
 
 
 #preview
-![img1](image_enhancer/assets/img1.png)
-![img2](image_enhancer/assets/img2.png)
+![img1](../image_enhancer/assets/img1.png)
+![img2](../image_enhancer/assets/img2.png)
