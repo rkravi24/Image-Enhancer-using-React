@@ -1,7 +1,7 @@
 # npm i
 # create .env file and set key-
-VITE_API_KEY=
-VITE_BASE_URL= https://techhk.aoscdn.com
+1. VITE_API_KEY=
+2. VITE_BASE_URL= https://techhk.aoscdn.com
 
 # run
 npm run dev
